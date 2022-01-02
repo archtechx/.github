@@ -12,7 +12,7 @@ Our main open-source project is [Tenancy for Laravel](https://tenancyforlaravel.
 
 Aside from that, we have a bunch of mini packages, like: [`laravel-seo`](https://archte.ch/gh/laravel-seo),
 [`laravel-pages`](https://archte.ch/gh/laravel-pages), [`livewire-access`](https://archte.ch/gh/livewire-access),
-[`money`](https://archte.ch/gh/money), and [`many more`](https://github.com/orgs/archtechx/repositories).
+[`money`](https://archte.ch/gh/money), and [many more](https://github.com/orgs/archtechx/repositories).
 
 In 2022, we'll be releasing our [e-commerce package](https://laravel-news.com/archtech-ecommerce-package) and most importantly: [Lean Admin](https://lean-admin.dev), a game-changing admin panel framework for Laravel.
 
